@@ -26,5 +26,9 @@ class ViewController: UIViewController {
     print("changed code as per the request")
     
   }
+  
+  func newFunc(){
+    print("i need merge conflict")
+  }
 }
 
