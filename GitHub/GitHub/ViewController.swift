@@ -26,5 +26,13 @@ class ViewController: UIViewController {
     print("changed code as per the request")
     
   }
+  
+  func myAwesomeFunc() {
+    //this is going to be fun
+    //hope this will create a conflict
+    for _ in 1...4 {
+      print("Conflict")
+    }
+  }
 }
 
