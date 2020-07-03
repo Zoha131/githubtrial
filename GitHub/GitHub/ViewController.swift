@@ -28,7 +28,7 @@ class ViewController: UIViewController {
   }
   
   func newFunc(){
-    print("i need merge conflict")
+    print("i need merge conflict and close issue")
   }
   
   func myAwesomeFunc() {
