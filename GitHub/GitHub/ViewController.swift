@@ -28,3 +28,8 @@ class ViewController: UIViewController {
   }
 }
 
+extension ViewController {
+    func doSomeAwesomeThingy() {
+        print("Did something awesome!")
+    }
+}
