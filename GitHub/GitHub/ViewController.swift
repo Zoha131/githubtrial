@@ -30,5 +30,13 @@ class ViewController: UIViewController {
   func newFunc(){
     print("i need merge conflict")
   }
+  
+  func myAwesomeFunc() {
+    //this is going to be fun
+    //hope this will create a conflict
+    for _ in 1...4 {
+      print("Conflict")
+    }
+  }
 }
 
