@@ -14,6 +14,11 @@ class ViewController: UIViewController {
     super.viewDidLoad()
     // Do any additional setup after loading the view.
   }
+  
+  func newFunction() {
+    print("Hello Github")
+    print("this is new change after change request")
+  }
 
   func mynewawesomefunction() {
     for i in 1...4 {
