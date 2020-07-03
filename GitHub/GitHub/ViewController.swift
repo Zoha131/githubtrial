@@ -30,6 +30,6 @@ class ViewController: UIViewController {
 
 extension ViewController {
     func doSomeAwesomeThingy() {
-        print("Did something awesome!")
+        print("Did something awesome and in a more efficient way!")
     }
 }
