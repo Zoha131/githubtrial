@@ -15,6 +15,10 @@ class ViewController: UIViewController {
     // Do any additional setup after loading the view.
   }
 
-
+  func mynewawesomefunction() {
+    for i in 1...4 {
+      print("Git is awesome")
+    }
+  }
 }
 
