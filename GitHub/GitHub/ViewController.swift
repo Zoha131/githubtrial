@@ -21,9 +21,9 @@ class ViewController: UIViewController {
   }
 
   func mynewawesomefunction() {
-    for i in 1...4 {
-      print("Git is awesome")
-    }
+    
+    print("changed something in code")
+    
   }
 }
 
